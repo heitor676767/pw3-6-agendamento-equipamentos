@@ -1,13 +1,13 @@
-package com.enzoheitor.agendamento_equipamentos;
+package com.enzoHeitor.agendamento.equipamentos;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class AgendamentoEquipamentosApplication {
+public class Application {
 
 	public static void main(String[] args) {
-		SpringApplication.run(AgendamentoEquipamentosApplication.class, args);
+		SpringApplication.run(Application.class, args);
 	}
 
 }

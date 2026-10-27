@@ -1,10 +1,10 @@
-package com.enzoheitor.agendamento_equipamentos;
+package com.enzoHeitor.agendamento.equipamentos;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class AgendamentoEquipamentosApplicationTests {
+class ApplicationTests {
 
 	@Test
 	void contextLoads() {
